@@ -20,6 +20,7 @@ We'll be using the simplest, cheapest, and least elegant unbricking method. No s
 - A USB-C cable to connect the RP2040 to the FM1. It must have four separate wires inside: one end should be a USB-C male plug, and the other end should expose four individual wires (black, red, white, and green).
 
   ![USB-C cable with four exposed wires](images/02-usb-cable.jpg)
+  ![USB-C cable with four exposed wires]](images/04-rp2040-wiring2.jpg)
 
 - The M-VAVE FM1 itself.
 - The latest version of Python installed on your PC: [python.org/downloads](https://www.python.org/downloads/).
