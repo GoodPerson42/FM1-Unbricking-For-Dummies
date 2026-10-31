@@ -67,7 +67,7 @@ We'll be using the simplest, cheapest, and least elegant unbricking method. No s
    python3 fm1_transporter_recover.py wizard --v15 FM-1v15.fwsc
    ```
 
-   Follow the instructions. Answer `Y` wherever possible and press `Enter` when prompted. At one point, you'll be asked to type `WRITE`.
+   Follow the instructions. Answer `Y` wherever possible and press `Enter` when prompted. At one point, you'll be asked to type `WRITE`, you should turn FM1 ON right after that.
 
 11. Once all activity in the terminal has stopped, disconnect the FM1. Switch it off and then back on. Firmware v15 should now boot.
 
