@@ -25,7 +25,7 @@
 - Последняя версия Python, установленная на ПК: [python.org/downloads](https://www.python.org/downloads/).
 - Скачанный и распакованный архив [MvaveFM1Unbricker от Quixotic7](https://github.com/Quixotic7/MvaveFM1Unbricker).
 
-  ![Скачивание архива MvaveFM1Unbricker с GitHub](images/03-download-unbricker.jpeg)
+  ![Скачивание архива MvaveFM1Unbricker с GitHub](images/03-download-unbricker.jpg)
 
 ## Процедура восстановления
 
