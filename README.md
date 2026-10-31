@@ -25,7 +25,7 @@ We'll be using the simplest, cheapest, and least elegant unbricking method. No s
 - The latest version of Python installed on your PC: [python.org/downloads](https://www.python.org/downloads/).
 - The archive [MvaveFM1Unbricker by Quixotic7](https://github.com/Quixotic7/MvaveFM1Unbricker), downloaded and extracted.
 
-  ![Downloading the MvaveFM1Unbricker archive from GitHub](images/03-download-unbricker.png)
+  ![Downloading the MvaveFM1Unbricker archive from GitHub](images/03-download-unbricker.jpg)
 
 ## Unbricking procedure
 
@@ -59,7 +59,7 @@ We'll be using the simplest, cheapest, and least elegant unbricking method. No s
 
 8. Using the USB-C cable with the wires attached, connect the RP2040 to the FM1. The FM1 must be switched off.
 
-   ![RP2040 connected to the FM1](images/05-fm1-connection.jpg)
+   ![RP2040 connected to the FM1](images/04-rp2040-wiring2.jpg)
 
 9. Copy and run this command in the terminal:
 
